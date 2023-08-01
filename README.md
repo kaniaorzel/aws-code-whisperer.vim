@@ -8,9 +8,9 @@ There is no VIM/neovim plugin for CodeWhisperer. I don't like VSCode so I decide
 
 ## Roadmap
 
-[ ] Reverse engineering of AWS Toolkit for VSCode https://github.com/aws/aws-toolkit-vscode/blob/master/src/codewhisperer
-[ ] Basic functionalities for code complition based on https://github.com/github/copilot.vim
-[ ] solve issue with login/activation
+- [ ] Reverse engineering of AWS Toolkit for VSCode https://github.com/aws/aws-toolkit-vscode/blob/master/src/codewhisperer
+- [ ] Basic functionalities for code complition based on https://github.com/github/copilot.vim
+- [ ] solve issue with login/activation
 
 
 ## Licence
