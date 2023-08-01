@@ -1,4 +1,4 @@
-# CodeWhisperer.vim
+# aws-code-whisperer.vim
 
 > VIM plugin for AWS CodeWhisperer.
 
