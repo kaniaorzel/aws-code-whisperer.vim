@@ -1,0 +1,20 @@
+{
+  "name": "aws-code-whisperer.vim",
+  "version": "0.0.1",
+  "description": "> VIM plugin for AWS CodeWhisperer.",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaniaorzel/aws-code-whisperer.vim.git"
+  },
+  "author": "KaniaOrzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaniaorzel/aws-code-whisperer.vim/issues"
+  },
+  "homepage": "https://github.com/kaniaorzel/aws-code-whisperer.vim#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1427.0"
+  }
+}
